@@ -11,6 +11,6 @@
 
 Et voilààà, 8 simple steps to start to code avec le cul again.
 
-## Contributing (contribuer)
+## Contributing
 
-Attach a picture of your ass in the PR description and we'll see if it passes GitHub's moderation system before merging (nonsense).
+Attach a picture of your ass in the PR description and we'll see if it passes GitHub's moderation system before merging just anything.
