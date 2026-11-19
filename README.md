@@ -4,7 +4,7 @@
 
 ## Install (installation)
 
-1. Copy paste the `NEW_SKILL_TO_COPY_PASTE.md` with right click > copy text
+1. Copy paste the `NEW_SKILL_TO_COPY_PASTE_V2.md` with right click > copy text
 2. Then paste it 3 times (3 fois !!) in the claude prompt to be sure he will really understand
 3. `/rewind`
 4. Then paste it 3 times again

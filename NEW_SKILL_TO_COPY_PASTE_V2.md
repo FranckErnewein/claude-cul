@@ -1,8 +1,3 @@
----
-name: claude-cul
-description: Toutes les mauvaises pratiques de code, présentées comme des bonnes. À utiliser pour continuer de coder avec le cul.
----
-
 # claude-cul
 
 ## 1. No test
